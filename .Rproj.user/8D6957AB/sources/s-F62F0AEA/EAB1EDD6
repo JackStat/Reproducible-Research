@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550099124260.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EAB1EDD6",
+    "lastKnownWriteTime" : 1550099133,
+    "last_content_update" : 1550099133243,
+    "path" : "~/Documents/Reproducible Research/flexdashboard/shiny-eruptions.Rmd",
+    "project_path" : "flexdashboard/shiny-eruptions.Rmd",
+    "properties" : {
+        "cursorPosition" : "28,0",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550098800115.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "30F29ED8",
+    "lastKnownWriteTime" : 1550098810,
+    "last_content_update" : 1550098810580,
+    "path" : "~/Documents/Reproducible Research/Tufte.Rmd",
+    "project_path" : "Tufte.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

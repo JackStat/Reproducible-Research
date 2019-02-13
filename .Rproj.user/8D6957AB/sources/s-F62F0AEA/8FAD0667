@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550099172354.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8FAD0667",
+    "lastKnownWriteTime" : 1550099204,
+    "last_content_update" : 1550099204903,
+    "path" : "~/Documents/Reproducible Research/flexdashboard/dygraphs.Rmd",
+    "project_path" : "flexdashboard/dygraphs.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,31",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

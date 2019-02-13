@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550098861355.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CBC118EC",
+    "lastKnownWriteTime" : 1550098872,
+    "last_content_update" : 1550098872652,
+    "path" : "~/Documents/Reproducible Research/Lightweight.Rmd",
+    "project_path" : "Lightweight.Rmd",
+    "properties" : {
+        "cursorPosition" : "57,54",
+        "scrollLine" : "45",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
